@@ -60,7 +60,7 @@ anyjson==0.3.3
 kombu==2.5.4
 python-dateutil==2.1
 billiard==2.7.3.18
-celery==3.0.13
+celery==5.2.2
 django-celery==3.0.11
 tornado==2.4.1
 celerymon==1.0.3
